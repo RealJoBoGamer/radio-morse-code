@@ -20,4 +20,7 @@ input.onButtonPressed(Button.B, function () {
     basic.showIcon(IconNames.Yes)
     radio.sendNumber(1)
 })
+/**
+ * t
+ */
 radio.setGroup(255)
